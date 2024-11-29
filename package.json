@@ -1,11 +1,10 @@
 {
-  "name": "facebook-clone",
+  "name": "github-login-clone",
   "version": "1.0.0",
   "description": "Welcome to the GitHub Login Page Clone repository! This project is a clone of the login page of GitHub, built using Tailwind CSS. It is a fully responsive website, designed to mimic the appearance and functionality of GitHub's login page.",
-  "main": "index.js",
   "scripts": {
     "start": "vite",
-    "build": "npx tailwindcss -i ./assets/input.css -o ./assets/output.css --watch"
+    "build": "npx tailwindcss -i ./assets/input.css -o ./assets/output.css"
   },
   "keywords": [],
   "author": "",
